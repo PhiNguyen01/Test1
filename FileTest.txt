@@ -1,2 +1,3 @@
 add: Đăng ký thay đổi trong index
 File Test
+pull: Lấy nội dung của remote repository
